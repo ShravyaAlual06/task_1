@@ -1,2 +1,4 @@
 Sample information
 this is first sample
+creating conflicts in master
+creating conflicts in feature 
