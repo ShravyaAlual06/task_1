@@ -1,2 +1,2 @@
-this is example page
+this is example page. data available here
 this is for testing purpose
