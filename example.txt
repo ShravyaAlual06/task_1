@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-this is example page. data available here
-=======
-Helo Everyone! this is example page
->>>>>>> 257b5de17173aeb48a4af537d54d90cc253b23c3
-this is for testing purpose
+
+this is example page. data availabe
