@@ -1,0 +1,3 @@
+[submodule "git_Task2"]
+	path = git_Task2
+	url = https://github.com/RickyHarish/healthcare.git
